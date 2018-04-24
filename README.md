@@ -1,3 +1,3 @@
-# React Redux Prof of concept
+# React Redux Playground
 
 Just playing around with React and Redux
